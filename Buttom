@@ -1,0 +1,14 @@
+button {
+         display: block;
+         position: relative;
+         margin: 10px;
+         padding: 0 10px;
+         text-align: center;
+         text-decoration: none;
+         width: 130px;
+         height: 40px;
+         font: bold 18px/25px Arial, sans-serif;  color: black;
+         text-shadow: 1px 1px 1px rgba(255,255,255, .22);
+         -webkit-border-radius: 30px;
+          -moz-border-radius: 30px;
+          border-radius: 30px;
