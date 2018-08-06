@@ -1,0 +1,9 @@
+ body {
+         background-color:#ffffff;
+         background-image:url('/img/smart.jpg');
+         background-repeat:no-repeat;
+         background-position:center;
+         background-size:cover;
+         font: bold 18px/25px Arial, sans-serif;
+         color:Red;
+     }
