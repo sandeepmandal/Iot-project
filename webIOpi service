@@ -1,0 +1,16 @@
+input[type="range"] {
+                                                display: block;
+                                                width: 160px;
+                                                height: 45px;
+                        }
+ 
+ // when buttom has been pressed 
+   #gpio17.LOW {
+                                                background-color: Gray;
+                                                color: Black;
+                        }
+                        #gpio17.HIGH {
+                                                background-color: Red;
+                                                color: LightGray;
+                        } 
+                         // here the end of code
